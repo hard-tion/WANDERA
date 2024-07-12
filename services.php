@@ -25,6 +25,7 @@
        <br>
        <div class="container2">
        <img src="./resources/css/pic15.jpg" alt="box16" height="300px" width="300px">
+</div>
        <div class="container3">
        <img src="./images/pic3.jpg" alt="box16" height="300px" width="300px">
        <H1><a href="truck group">TRUCK GROUP</a></H1>
